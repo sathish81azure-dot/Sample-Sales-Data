@@ -1,0 +1,6 @@
+Branch_ID,Dealer_ID,Model_ID,Revenue,Units_Sold,Date_ID,Date,Month,year,Branch_Name,Dealer_Name,Product_Name
+BR0141,DLR0015,For-M19,6866014,2,DT00020,1,10,2020,Autobianchi Motors,Autobianchi Motors,Ram
+BR0151,DLR0016,For-M20,6197509,1,DT00021,2,10,2020,Auto-Union Motors,Auto-Union Motors,Ford
+BR0161,DLR0017,For-M22,16295156,2,DT00022,5,10,2020,Auverland Motors,Auverland Motors,Ford
+BR0171,DLR0018,For-M23,6873658,1,DT00023,6,10,2020,Bentley Motors,Bentley Motors,Ford
+BR0181,DLR0019,For-M24,5221738,1,DT00024,7,10,2020,Bitter Motors,Bitter Motors,Ford
